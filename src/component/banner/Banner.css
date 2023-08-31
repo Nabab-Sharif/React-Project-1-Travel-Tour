@@ -1,0 +1,41 @@
+
+/* banner section  */
+#banner_part {
+  background: url(../../assets/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 462px 0;
+}
+
+#banner_part p {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 7px;
+  text-transform: uppercase;
+  color: #FFC178;
+  margin-bottom: 37px;
+}
+
+#banner_part h1 {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 100px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+
+#banner_part h2 {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 88px;
+  line-height: 100px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}

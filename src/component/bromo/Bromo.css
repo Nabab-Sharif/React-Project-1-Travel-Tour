@@ -1,0 +1,63 @@
+#bromo_part {
+  background: #000;
+  padding-bottom: 295px;
+}
+
+#bromo_part .bromo {
+  background: url(../../assets/bromobanner.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 559px 0 93px;
+}
+
+#bromo_part .bromo .first_p {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  color: #FBD784;
+}
+
+
+#bromo_part .bromo h2 {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 87px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  width: 932px;
+  margin: 13px auto 14px;
+}
+
+
+#bromo_part .bromo .second_p {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 32px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  width: 893px;
+  margin: 0 auto 26px;
+}
+
+#bromo_part .bromo a {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #FBD784;
+
+}

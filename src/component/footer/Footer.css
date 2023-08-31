@@ -1,0 +1,140 @@
+footer {
+  background: #000;
+  padding-bottom: 30px;
+}
+
+footer .container {
+  display: flex;
+}
+
+footer .container .left {
+  width: 50%;
+}
+
+footer .container .left h2 {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 49px;
+  letter-spacing: -0.3px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  width: 405px;
+  margin: 82px 0 49px;
+}
+
+footer .container .left p {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.204545px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  margin-bottom: 34px;
+}
+
+footer .container .left .icon i {
+  font-size: 30px;
+  color: white;
+  margin-right: 29px;
+
+}
+
+
+
+footer .container .right {
+  width: 50%;
+}
+
+
+footer .container .right .title {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  column-gap: 18px;
+  margin-bottom: 70px;
+
+}
+
+footer .container .right .title p {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: -0.3px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+
+}
+
+footer .container .right .title a {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 23px;
+  text-transform: capitalize;
+  color: #000000;
+  padding: 18px 67px;
+  background: #FFA343;
+  border-radius: 10px;
+}
+
+footer .container .right .footer_menu {
+  display: flex;
+}
+
+
+footer .container .right .footer_menu .service {
+  margin-right: 84px;
+}
+
+footer .container .right .footer_menu .about {
+  margin-right: 139px;
+}
+
+
+
+footer .container .right .footer_menu h3 {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: -0.231818px;
+  text-transform: capitalize;
+  color: #FFD1A0;
+}
+
+
+footer .container .right .footer_menu ul li a {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 26px;
+  letter-spacing: -0.204545px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+
+}
+
+
+
+
+footer .copy_part {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  color: #FFFFFF;
+  opacity: 0.5;
+  margin-top: 153px;
+
+}

@@ -1,0 +1,64 @@
+/* common css style here */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+img {
+  display: block;
+}
+
+.container {
+  width: 1320px;
+  margin: 0 auto;
+}
+
+/* common css end here */
+
+nav {
+  position: absolute;
+  width: 100%;
+  top: 28px;
+
+}
+
+nav .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav .container .logo {
+  display: flex;
+  align-items: center;
+}
+
+nav .container .menu ul {
+  display: flex;
+  column-gap: 60px;
+}
+
+nav .container .menu ul li a {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+nav .container .menu ul li a:hover {
+  color: black;
+}
+
+nav .container .menu ul li .active {
+  color: black;
+}
+

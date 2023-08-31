@@ -1,0 +1,68 @@
+#holiday {
+  padding: 319px 0 358px;
+  background-color: rgb(2, 1, 1);
+}
+
+#holiday .container {
+  display: flex;
+  column-gap: 24px;
+}
+
+#holiday .container .image {
+  width: 50%;
+}
+
+#holiday .container .image img {
+  width: 100%;
+}
+
+#holiday .container .text {
+  width: 50%;
+  padding-top: 45px;
+}
+
+#holiday .container .text .eastText {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  color: #FBD784;
+  margin-bottom: 13px;
+}
+
+
+#holiday .container .text h2 {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 87px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  width: 496px;
+}
+
+#holiday .container .text .details {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  width: 587px;
+  margin: 13px 0 66px;
+}
+
+.readMore {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #FBD784;
+}
